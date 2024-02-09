@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/C3-EMAJ/grupo-1-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/C3-EMAJ/grupo-1-frontend.git
